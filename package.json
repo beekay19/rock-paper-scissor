@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node": "^20.3.1"
+  },
+  "scripts": {
+    "build": "choices.js --mode production"
+  },
+  "type": "module"
+}
